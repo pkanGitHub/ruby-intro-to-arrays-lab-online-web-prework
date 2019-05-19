@@ -7,6 +7,7 @@ def array_with_two_elements
   my_two_array = ["dog", "alligator"]
 end
 
-def first_element(index_number)
-  my_first_element[0]
+def first_element(array, index_number)
+  taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
+  taylor_swift[0]
 end
