@@ -8,5 +8,5 @@ def array_with_two_elements
 end
 
 def first_element(index_number)
-  my_first_element[0]
+  first_element[0]
 end
