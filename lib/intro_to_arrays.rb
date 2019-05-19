@@ -4,4 +4,3 @@ def create_new_array
   return Array
 end
 
-def 
